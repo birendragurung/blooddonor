@@ -289,6 +289,7 @@
         </div>
 
     </div>
+
     <!-- Mainly scripts -->
     <script src="<?php echo base_url(); ?>/asserts/js/jquery-2.1.1.js"></script>
     <script src="<?php echo base_url(); ?>/asserts/js/bootstrap.min.js"></script>
